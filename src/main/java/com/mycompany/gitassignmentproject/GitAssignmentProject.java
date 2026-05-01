@@ -11,7 +11,7 @@ package com.mycompany.gitassignmentproject;
 public class GitAssignmentProject {
 
  public static void main(String[] args) {
-        System.out.println("Hello NetBeans. Welcome to version control using Git");
+        System.out.println("Hello NetBeans. Welcome to version control using Git and add");
     }
 }
     
