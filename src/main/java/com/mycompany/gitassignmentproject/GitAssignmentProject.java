@@ -12,7 +12,7 @@ public class GitAssignmentProject {
 
  public static void main(String[] args) {
 
-        System.out.println("Hello NetBeans. Welcome to version control using Git, creating a conflicts ");
+        System.out.println("Hello NetBeans. Welcome to version control using Git, creating a conflicts for the master ");
 
     }
 }
